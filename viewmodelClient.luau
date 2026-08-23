@@ -1,3 +1,5 @@
+-- Made by Avia_player (Roblox) | externalwrd (Discord)
+
 -- // Services
 local RS = game:GetService("RunService")
 local CAS = game:GetService("ContextActionService")
