@@ -1,7 +1,5 @@
 -- Made by Avia_player (Roblox) | externalwrd (Discord)
 
--- Made by Avia_player (Roblox) | externalwrd (Discord)
-
 -- // Services
 -- Get the services used by this script.
 local Players = game:GetService("Players")
